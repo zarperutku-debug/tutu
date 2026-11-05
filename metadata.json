@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Véra — AI Stil ve Kombin Atölyesi",
+  "description": "Boydan kıyafet fotoğraflarınızı Old Money, Smart Casual, Streetwear ve Minimalist tarzlarda yeniden tasarlayan, Öncesi/Sonrası karşılaştırma kaydırıcısı, bağlama duyarlı AI stilist sohbeti ve Gardırobu Tamamla alışveriş deneyimi sunan interaktif moda uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
